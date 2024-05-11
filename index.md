@@ -15,6 +15,7 @@ Lab 1, was one of my favorite labs from this semester. Being the first thing I c
 
 * Lab 10
 
+
 Lab 10, part-2 what made this one of the best labs was that we had to create code that searches through a list of states. And then labels the most dense state. 
 
 * Lab 11
